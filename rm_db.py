@@ -1,1 +1,2 @@
-
+    rm_database()
+escape()
