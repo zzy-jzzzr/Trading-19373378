@@ -1,2 +1,3 @@
-    rm_database()
+rm_database()
 escape()
+caught()
